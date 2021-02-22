@@ -1,0 +1,22 @@
+{
+  "name": "modernjstutorial",
+  "version": "1.0.0",
+  "description": "modernJSTutorial",
+  "main": "promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xIslamTaha/modernJSTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xIslamTaha/modernJSTutorial/issues"
+  },
+  "homepage": "https://github.com/0xIslamTaha/modernJSTutorial#readme",
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
